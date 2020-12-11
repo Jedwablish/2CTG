@@ -1,0 +1,1 @@
+javascript - tworzenie CallBack
